@@ -1,0 +1,25 @@
+{
+  "background_color": "#ffffff",
+  "description": "make website in a highly affordable prizes",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "realenlight",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "realenlight",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "business",
+    "utilities"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "img/realenlight.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "en"
+}
