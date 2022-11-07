@@ -16,8 +16,8 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "img/realenlight.ico",
-      "type": "image/x-icon"
+      "src": "img/logo.png",
+      "type": "image/png"
     }
   ],
   "shortcuts": [],
