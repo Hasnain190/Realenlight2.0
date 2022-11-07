@@ -337,6 +337,11 @@
 
   </div>
   <div class="overlay hidden"></div>
+<script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
+</script>
 
 
 </body>
